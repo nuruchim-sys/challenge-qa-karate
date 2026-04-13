@@ -1,0 +1,18 @@
+{
+  "id":0,
+  "category":{
+    "id":1,
+    "name":"small breed"
+  },
+  "name":"Akira",
+  "photoUrls":[
+    "photo-akira"
+  ],
+  "tags":[
+    {
+      "id":1,
+      "name":"black"
+    }
+  ],
+  "status":"available"
+}
