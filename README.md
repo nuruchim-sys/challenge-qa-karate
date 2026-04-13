@@ -37,3 +37,6 @@ karate-project/
 
 ### Reporting
 After executing the test, the report will be generated in the following path:`target/karate-reports/karate-summary.html`.
+
+### Video
+See the configuration setup tutorial [here](https://drive.google.com/file/d/1nX7LUtjOnwfrKO0nFhsB8ZwqtlvMI1-m/view?usp=sharing).
